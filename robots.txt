@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://delfinobiang.github.io/readme-3rk634/sitemap.xml
